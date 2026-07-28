@@ -1,0 +1,30 @@
+{
+  "name": "@hanzo/kv-parser",
+  "version": "3.0.2",
+  "description": "Wire-protocol decoder for Hanzo KV.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "@hanzo/kv-errors": "^1.2.1"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzokv/js-parser.git"
+  },
+  "keywords": [
+    "hanzo",
+    "kv",
+    "resp",
+    "parser"
+  ]
+}
