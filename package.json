@@ -10,7 +10,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "@hanzo/kv-errors": "^1.2.1"
+    "@hanzo/kv-errors": "^1.2.2"
   },
   "license": "MIT",
   "publishConfig": {
